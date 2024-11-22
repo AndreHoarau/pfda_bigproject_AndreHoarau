@@ -1,7 +1,7 @@
 # pfda_bigproject_AndreHoarau
 # Author - Andre Hoarau
 # Module - Programming for Data Analytics (PFDA)
-# Lecturer - Andrew Beattu
+# Lecturer - Andrew Beatty
 ---
 
 ## Deadline: 13th January 2025
